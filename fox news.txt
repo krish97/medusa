@@ -1,0 +1,124 @@
+                                                                          Fox News
+ 
+    
+
+
+The items we buy say a lot about our lifestyles, our finances, and our domestic lives. If you have an Amazon account, the amount of data that the retail giant collects is astonishing. Many people don’t know you get much more just free two-day shipping with a Prime account.
+
+Ready to be pleasantly surprised? Tap or click here for a list of Amazon Prime benefits you get for with a membership.
+
+With these different areas collecting data about you, if you are trying to maintain some semblance of your privacy, you’ll definitely want to check these five not-so-obvious settings.    
+
+                                                          1. Remove your Amazon public profile
+
+We don't often think of our "Amazon profile." However, that's precisely what it is. Your profile is created automatically, whether you want it or not, and it contains comments, ratings, public Wish Lists, biographical information, and other site interaction. This profile doesn't include your purchases or your browsing history, but it's very informative.
+
+If you want to control what activity is visible on your public profile, do the following:
+
+1. Put your cursor on the "Account & Lists," button and then click on "Your Account."
+
+2. Scroll down to the "Ordering and shopping preferences" section. Click the "Profile" link, which is right above the social media preferences link.
+
+3. Click on the link in the orange box to the right that says, "Edit your profile." Click the Edit privacy settings tab.
+
+4. You can select or deselect items like Reviews, Questions, Who You Follow, Public Wish Lists, Baby Registry, and others. To simplify this, there's also a handy option to "Hide all activity on your profile," which turns everything off at once.
+
+It’s sometimes hard to tell what other people can see. If you want a quick look at what information you're sharing publicly, click "View your profile as a visitor." You can tell at a glance if you're sharing anything you don't want to out in the public arena.
+
+If your profile is showing your real name, or other biographical information you don't want, go back to the profile settings page and click the Edit profile tab. It’s located right next to the Edit Privacy settings tab.
+
+You can edit or delete any information like your Bio, Occupation, Location, and more. You can even change the "public name" on your profile and post reviews anonymously.
+
+2. Listen and delete your Alexa recordings
+
+If you own an Amazon Echo, you probably know its strange secret: the device records a lot of what you say. On the upside, Echo uses this voice data to improve its functionality and obey your command.
+
+Still asking Alexa only for the weather and music? Tap or click here for 21 Alexa commands you’ll use over and over. The downside: Echo doesn't store these recordings in the device itself but on Amazon's servers.
+
+Many people don't realize you can review your voice log with the Alexa app on iOS and Android. The app allows you to scroll through your activity and listen to each recording.
+
+It's a bit tedious, but it's possible to go back and listen to the very first command you've ever uttered to Alexa. There's nothing like hearing your two-year-younger child say "What's the weather?"
+
+Whenever I check my settings, I am always surprised what Alexa saves that does not have the wake word in the snippet. Tap or click here for step-by-step instruction on how to listen and delete your Alexa recordings.
+
+Keep in mind that Amazon warns, “Deleting voice recordings may degrade your Alexa experience.”
+
+Related: You can enable Alexa to call 911. Tap or click here for the steps so that you or your family can ask Alexa to summon help when you need it.
+
+3. Make your lists private
+
+There are two main "lists" on Amazon, the Shopping List, and the Wish List. Many people use their Wish Lists for gift ideas, but we often use Wish Lists as a log of items we don't want to forget.
+
+The trouble is, anyone in the world can find your Wish List by searching your name. Granted, if your name is “John Smith,” you may not be easy to pinpoint. But if strangers find out where you live, they may be able to deduce and identify your profile.
+
+To check the privacy settings of your Amazon Lists:
+
+1. Click on the "Accounts & Lists" drop-down box then select "Shopping List" or "Wish List."
+
+2. Now on this "Your Lists" page, click on three dots (next to "Share List") then select "Manage List."
+
+3. Here, you can change your list details like your list name, the name of the recipient, email, birthday and most of all, its privacy.
+
+4. To change the list's privacy, simply click on and select "Private" on the drop-down box.
+
+4. Stop Amazon from tracking your browsing
+
+Like almost any search engine, Amazon also tracks all your browsing activity by default. The company saves your searches, including items you recently viewed and product categories you browsed. All of this information helps Amazon create targeted ads. Although your browsing history is hidden from the public, you may find this habit unsettling.
+
+Here's how to stop Amazon from tracking your browsing activity:
+
+1. Log in to your account at Amazon.com
+
+2. On the upper menu, click on "Your Browsing History."
+
+3. On the next page, click on the "Manage history" drop-down arrow.
+
+4. Toggle "Turn Browsing History on/off" to Off
+
+Note: You can also clear your entire browsing history here by clicking the "Remove all items" button
+
+Meanwhile, you can also turn off personalized ads, which many customers find eerie and exasperating. Here's how to turn off targeted ads on your browser:
+
+1. Go to "Your Account" page.
+
+2. Under "Email alerts, messages, and ads," click "Advertising preferences"
+
+3. On this page, select "Do Not Personalize Ads from Amazon for this Internet Browser"
+
+4. Hit "Submit"
+
+5. Set a PIN on Alexa purchases
+
+“Alexa, order more shampoo.” It’s convenient to purchase items from Amazon Echo using only your voice.
+
+But I'd rather turn off my Echo's Voice Purchasing option altogether and use Amazon's app or website to shop. This process is much more direct and secure, and you reduce the odds of making a mistake.
+
+To turn it off:
+
+1. Open your Alexa app.
+
+2. Tap Settings and scroll down.
+
+3. Tap Voice Purchasing and toggle "Purchase by voice" to Off.
+
+If you still want the convenience (and the sci-fi vibe) of Echo voice purchasing, you should set up a PIN code to avoid unauthorized purchases.
+
+To set it up:
+
+1. Go to the same Voice Purchasing settings page on your Alexa app.
+
+2. Toggle "Purchase by voice" to On.
+
+3. Toggle "Voice code" to On as well.
+
+4. This will prompt you to enter your 4-digit PIN code.
+
+Once you have a Voice Code configured, the 4-digit code has to be spoken out to complete a purchase on your Echo.
+
+Of course, anyone can listen in and reuse your code. A voice-purchasing PIN adds a veneer of security, but it's hardly foolproof. As I said, I'd rather have Voice Purchasing set to off entirely.
+
+What digital lifestyle questions do you have? Call my national radio show and click here to find it on your local radio station. You can listen to the Kim Komando Show on your phone, tablet or computer. From buying advice to digital life issues, click here for my free podcasts.
+
+Copyright 2018, WestStar Multimedia Entertainment. All rights reserved.
+
+Learn about all the latest technology on the Kim Komando Show, the nation's largest weekend radio talk show. Kim takes calls and dispenses advice on today's digital lifestyle, from smartphones and tablets to online privacy and data hacks. For her daily tips, free newsletters and more, visit her website at Komando.com.
